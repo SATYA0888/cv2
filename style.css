@@ -1,0 +1,59 @@
+body{
+    background-color: #EAF6F6;
+}
+hr{
+    border-style:none ;
+    border-top-style: dotted;
+    border-color: rgb(214, 211, 211);
+    border-width: 7px;
+    width: 5%;
+}
+img:hover{
+height: 100px;
+background-color: gold;
+}
+h1{
+    color:#07c3c3 ;
+}
+h3{
+    color:#66BFBF ;
+}
+ol{
+    color:aqua;
+}
+ul{
+    color: aquamarine;
+}
+a{
+    color: #8764ef;
+}
+.bg{
+    color:rgb(187, 102, 229);
+}
+.bm{
+    color: #13eb50;
+}
+.cc{
+    color: #cb4ea1;
+}
+p{
+    color:rgb(211, 15, 178);
+}
+em{
+    color: rgb(228, 144, 19);
+}
+strong{
+    color:rgb(8, 231, 12);
+}
+td{
+    color: rgb(3, 83, 88);
+}
+#head{
+    color:#a0adad
+}
+.satya{
+    border-radius: 100%;
+}
+.saraswat{
+    background-color: #21ee0e;
+}
